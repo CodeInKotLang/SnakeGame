@@ -1,6 +1,6 @@
 # Snake Game in Jetpack Compose! 🐍🎮
 
-This project is an exciting journey into the world of Jetpack Compose. We're not just creating your typical Snake Game; we're pushing the boundaries by leveraging the power of the Canvas in Jetpack Compose to bring the snake to life with custom graphics. Adding a touch of immersion, we've incorporated sound effects to make the gaming experience truly engaging.
+This project is an exciting journey into the world of Jetpack Compose. We're pushing the boundaries by leveraging the power of the Canvas in Jetpack Compose to bring the snake to life with custom graphics. 
 
 ## 🎥 [Check out the YouTube video tutorial here](youtu.be/K3PbisJtj-s).
 
@@ -10,7 +10,7 @@ This project is an exciting journey into the world of Jetpack Compose. We're not
 
 - **Jetpack Compose:** Explore the capabilities of Compose, Google's modern UI toolkit for building native Android applications.
 - **Canvas Drawing:** Learn how to use the Canvas to create custom graphics.
-- **Sound Effects:** Dynamic sound effects for a more interactive experience.
+- **Sound Effects:** Dynamic sound effects for a more interactive experience. 
 - **Game Logic:** Dive into the logic behind the classic Snake Game, enhanced with modern UI.
 
 ## Support

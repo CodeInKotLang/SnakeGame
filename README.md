@@ -2,7 +2,7 @@
 
 This project is an exciting journey into the world of Jetpack Compose. We're pushing the boundaries by leveraging the power of the Canvas in Jetpack Compose to bring the snake to life with custom graphics. 
 
-## 🎥 [Check out the YouTube video tutorial here](youtu.be/K3PbisJtj-s).
+## 🎥 [Check out the YouTube video tutorial here](https://youtu.be/K3PbisJtj-s?si=htA1yCK4bmEODigU).
 
 ![vlcsnap-2023-12-31-16h51m30s460](https://github.com/CodeInKotLang/SnakeGame/assets/110901093/5fedffe7-61ac-4924-b867-57dab9c186e9)
 
